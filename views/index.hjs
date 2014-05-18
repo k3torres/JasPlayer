@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>{{ title }}</title>
+    <link rel='stylesheet' href='/stylesheets/style.css' />
+  </head>
+  <body>
+    <h1>{{ title }}</h1>
+    <p>Shaabi El Hantour:</p>
+<div style="position:relative;width:267px;height:25px;overflow:hidden;">
+  <div style="position:absolute;top:-276px;left:-5px">
+    <iframe width="300" height="300" 
+      src="https://www.youtube.com/v/cNSB0HlyxeU&autoplay=1">
+    </iframe>
+  </div>
+</div>
+    <p>Raul Ferrando - Yearning:</p>
+<div style="position:relative;width:267px;height:25px;overflow:hidden;">
+  <div style="position:absolute;top:-276px;left:-5px">
+    <iframe width="300" height="300" 
+      src="https://www.youtube.com/v/80QBpqB_s_Q&autoplay=0">
+    </iframe>
+  </div>
+</div>
+    <p>Mohamed Al Hasan Abo Abid - Escapre from Cairo:</p>
+<div style="position:relative;width:267px;height:25px;overflow:hidden;">
+  <div style="position:absolute;top:-276px;left:-5px">
+    <iframe width="300" height="300" 
+      src="https://www.youtube.com/v/o_KtEmfCy-c&autoplay=0">
+    </iframe>
+  </div>
+</div>
+    <p>First Youtube Song :</p>
+<div style="position:relative;width:267px;height:25px;overflow:hidden;">
+  <div style="position:absolute;top:-276px;left:-5px">
+    <iframe width="300" height="300" 
+      src="https://www.youtube.com/v/4bAVxsRjzzU&autoplay=0">
+    </iframe>
+  </div>
+</div>
+    <p>First Youtube Song :</p>
+<div style="position:relative;width:267px;height:25px;overflow:hidden;">
+  <div style="position:absolute;top:-276px;left:-5px">
+    <iframe width="300" height="300" 
+      src="https://www.youtube.com/v/4bAVxsRjzzU&autoplay=0">
+    </iframe>
+  </div>
+</div>
+    <p>First Youtube Song :</p>
+<div style="position:relative;width:267px;height:25px;overflow:hidden;">
+  <div style="position:absolute;top:-276px;left:-5px">
+    <iframe width="300" height="300" 
+      src="https://www.youtube.com/v/4bAVxsRjzzU&autoplay=0">
+    </iframe>
+  </div>
+</div>
+  </body>
+</html>
